@@ -2,7 +2,7 @@
 // config.php - Database configuration
 $servername = "localhost";
 $username = "root";
-$password = "";
+$password = "TCC12345";
 $dbname = "inventory_db";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
